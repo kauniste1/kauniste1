@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on -
 - 📫 How to reach me Don't
 - 😄 Pronouns: man
-- ⚡ Fun fact: earth is not ball shaped, it's more of an egg shape
+- ⚡ Fun fact: earth is not perfectly ball shaped
 
 <!---
 kauniste1/kauniste1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
